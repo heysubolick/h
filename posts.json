@@ -7,8 +7,7 @@
 				"sub": {
 					"SSCATE": {
 						"href": "/posts/blog/subcategory/sscate/",
-						"sub": {
-						},
+						"sub": {},
 						"posts": [
 							{
 								"cover": "https://avatars3.githubusercontent.com/u/28672888?s=460&v=4",
@@ -35,13 +34,17 @@
 				"path": "/posts/blog/2020-01-22-10-20-30/",
 				"href": "/posts/2020-01-22-10-20-30/",
 				"title": "테스트 포스팅 22!"
+			},
+			{
+				"cover": "https://cdn.pixabay.com/photo/2016/01/19/17/53/writing-1149962_960_720.jpg",
+				"href": "/posts/2020-06-13-22-55-51/",
+				"title": "오늘 새로운 글쓰기를 해본다."
 			}
 		]
 	},
 	"BLOGGING": {
 		"href": "/posts/blogging/",
 		"sub": {},
-		"posts": [
-		]
+		"posts": []
 	}
 }
