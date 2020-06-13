@@ -8,14 +8,7 @@
 					"SSCATE": {
 						"href": "/posts/blog/subcategory/sscate/",
 						"sub": {},
-						"posts": [
-							{
-								"cover": "https://avatars3.githubusercontent.com/u/28672888?s=460&v=4",
-								"path": "/posts/blog/subcategory/sscate/2019-09-01-08-50-04/",
-								"href": "/posts/2019-09-01-08-50-04/",
-								"title": "테스트 포스팅333!"
-							}
-						]
+						"posts": []
 					}
 				},
 				"posts": [
